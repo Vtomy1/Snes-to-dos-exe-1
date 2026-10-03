@@ -1,0 +1,6 @@
+{
+  "name": "SNES-to-DOS Exe Studio",
+  "description": "Convert SNES ROMs to MS-DOS MZ Executables with VGA 320x200 8-bit Mode 13h graphics, Sound Blaster DSP audio synthesis, and interactive DOS runtime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
